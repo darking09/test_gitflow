@@ -4,6 +4,10 @@ import styles2 from "@/components/Title/styles/Title.module.css";
 
 import Title from "@/components/Title";
 
+/**
+ * TODO: we have 2 title because the customer wants to see the title in different styles
+ **/
+
 export default function Home() {
   return (
     <main className={styles.main}>
