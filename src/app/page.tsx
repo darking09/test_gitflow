@@ -1,11 +1,12 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+import styles2 from "@/components/Title/styles/Title.module.css";
 
 export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <h1 className={styles.title}>
+        <h1 className={styles2.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
         <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam deserunt minima, quam, sed voluptatem delectus incidunt dicta quas debitis quibusdam impedit soluta voluptas nam, officiis nihil facere doloribus eos rem.</p>
