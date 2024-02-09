@@ -5,6 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam deserunt minima, quam, sed voluptatem delectus incidunt dicta quas debitis quibusdam impedit soluta voluptas nam, officiis nihil facere doloribus eos rem.</p>
         <p>
           Get started by editing&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
