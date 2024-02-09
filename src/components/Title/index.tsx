@@ -1,10 +1,10 @@
-import styles from './styles/Title.module.css';
+import styles from './styles/Title.module.css'
 type TitleProps = {
-  title: string;
+  title: string
 }
 
-const Title = ({title} : TitleProps) => {
-  return <h1 className={styles.title}>{title}</h1>;
+const Title = ({ title } : TitleProps) => {
+  return <h1 className={styles.title}>{title}</h1>
 }
 
-export default Title;
+export default Title
