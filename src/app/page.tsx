@@ -5,7 +5,7 @@ import styles2 from "@/components/Title/styles/Title.module.css";
 import Title from "@/components/Title";
 
 /**
- * TODO: we have 2 title because the customer wants to see the title in different styles
+ * TODO: we have 2 title because the customer wants to see the title in different styles, requested by Ticket TGIT-005
  **/
 
 export default function Home() {
